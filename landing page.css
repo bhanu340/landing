@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+}
+.main{
+    background-image: linear-gradient(to right,yellow,black,black,orange);
+    height:270px;
+    border-radius: 10px;
+}
+.one{
+    margin-left: 650px;
+    color: gray;
+}
+.two{
+    margin-left: 550px;
+    color: white;
+}
+.three{
+    margin-left: 650px;
+    color: blue;
+}
+.para{
+    color: pink;
+    margin-left: 550px;
+}
+.get{
+    margin-left: 620px;
+    height: 40px;
+    width: 140px;
+}
+.tr{
+    color: white;
+    margin-left: 370px;
+}
+.img{
+    margin-left: 280px;
+  
+}
+.pa{
+    color: white;
+}
+.q{
+    margin-left: 590px;
+}
+.a{
+    margin-left: 520px;
+}
+.jasp{
+    margin-left: 70px;
+}
+.help{
+    color: white;
+    margin-left: 620px;
+}
+.start{
+    color: green;
+    background-color: white;
+    width: 300px;
+    height: 200px;
+}
